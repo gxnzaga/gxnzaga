@@ -1,16 +1,24 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**gxnzaga/gxnzaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Nome: Gabriel Gonzaga de Oliveira
+* LinkedIn: [Gabriel Gonzaga](https://www.linkedin.com/in/gabriel-gonzaga-54997b210)
 
-Here are some ideas to get you started:
+### Educação:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* :blue_book: Cursando o 4º Semestre de Engenharia de Software na Unifil
+
+### Experiências Profissionais
+
+* :computer: Trainee na empresa TATA Consultancy Services (04/2022 - Atualmente)
+
+### Soft Skills
+
+* Boa comunicação
+* Organização
+* Ética
+
+### Conhecimentos técnicos
+
+* Java: nível intermediário
+* HTML e CSS: nível intermediário
+* SQL: nível intermediário
