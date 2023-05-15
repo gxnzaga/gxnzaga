@@ -5,7 +5,7 @@
 
 ### Educação:
 
-* :blue_book: Cursando o 4º Semestre de Engenharia de Software na Unifil
+* :blue_book: Cursando o 5º Semestre de Engenharia de Software na Unifil
 
 ### Experiências Profissionais
 
