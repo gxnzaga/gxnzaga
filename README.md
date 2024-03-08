@@ -11,7 +11,7 @@
 
 * :computer: Estagiário na empresa TATA Consultancy Services (04/2022 - 07/2022)
 * :computer: Trainee na empresa TATA Consultancy Services (07/2022 - 07/2023)
-* * :computer: Analista de Suporte Jr. na empresa TATA Consultancy Services (07/2023 - Atualmente)
+*  :computer: Analista de Suporte Jr. na empresa TATA Consultancy Services (07/2023 - Atualmente)
 
 ### Soft Skills
 
