@@ -5,11 +5,13 @@
 
 ### Educação:
 
-* :blue_book: Cursando o 5º Semestre de Engenharia de Software na Unifil
+* :blue_book: Cursando o 7º Semestre de Engenharia de Software na Unifil
 
 ### Experiências Profissionais
 
-* :computer: Trainee na empresa TATA Consultancy Services (04/2022 - Atualmente)
+* :computer: Estagiário na empresa TATA Consultancy Services (04/2022 - 07/2022)
+* :computer: Trainee na empresa TATA Consultancy Services (07/2022 - 07/2023)
+* * :computer: Analista de Suporte Jr. na empresa TATA Consultancy Services (07/2023 - Atualmente)
 
 ### Soft Skills
 
@@ -19,6 +21,6 @@
 
 ### Conhecimentos técnicos
 
-* Java: nível intermediário
-* HTML e CSS: nível intermediário
-* SQL: nível intermediário
+* JavaScript: nível intermediário
+* Python: nível intermediário
+* SQL: nível básico
